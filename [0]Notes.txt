@@ -1,0 +1,8 @@
+OS : Windows 10 Pro
+Sample of a installation process : (Vue.js)
+
+1º Install node.js with npm 
+2º Create a folder directory
+3º Open cmd inside the folder and put : npm install vue
+
+

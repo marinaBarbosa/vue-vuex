@@ -1,0 +1,28 @@
+{
+  "name": "work2",
+  "version": "1.0.0",
+  "description": "Vue.js - Vuex App ",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinaBarbosa/vue-vuex.git"
+  },
+  "keywords": [
+    "vue.js",
+    "vuex",
+    "app"
+  ],
+  "author": "Marina Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinaBarbosa/vue-vuex/issues"
+  },
+  "homepage": "https://github.com/marinaBarbosa/vue-vuex#readme"
+}
